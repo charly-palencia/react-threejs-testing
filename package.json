@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "npm": ">=8",
-    "node": ">=16.11.1"
+    "npm": "8",
+    "node": "16.11.1"
   },
   "dependencies": {
     "@react-three/drei": "^7.17.1",

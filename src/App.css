@@ -86,6 +86,16 @@
   font-size: 90px;
 }
 
+@media (min-width: 320px) and (max-width: 480px) {
+  .overlay > h1 {
+    color: white;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+  }
+}
+
+
 canvas {
   height: 100vh;
 }
